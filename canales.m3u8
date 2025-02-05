@@ -1,16 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="La1.TV" group-title="Generalistas" tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La1.TV" group-title="Generalistas" tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-id="La1.TV" group-title="Generalistas" tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", La 1
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
 #EXTINF:-1 tvg-id="La2.TV" group-title="Generalistas" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200", La 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF:-1 tvg-id="La2.TV" group-title="Generalistas" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200", La 2
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-id="La2.TV" group-title="Generalistas" tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200", La 2
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
 #EXTINF:-1 tvg-id="Antena3.TV" group-title="Generalistas" tvg-name="Antena 3" tvg-logo="https://graph.facebook.com/antena3/picture?width=200&height=200", Antena 3
 https://www.atresplayer.com/directos/antena3/
 #EXTINF:-1 tvg-id="Cuatro.TV" group-title="Generalistas" tvg-name="Cuatro" tvg-logo="https://graph.facebook.com/cuatro/picture?width=200&height=200", Cuatro
@@ -58,7 +50,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" group-title="Informativos" tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 24h
 https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
 #EXTINF:-1 tvg-id="Euronews.TV" group-title="Informativos" tvg-name="Euronews" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200", Euronews
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1738761499/ei/uxCjZ6OxCa-_mLAP6KWM-Qc/ip/2a0c%3A5a81%3Aa10b%3Aca00%3Adc3d%3A899e%3Ab120%3A6afd/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51356811/txs/51356811%2C51356812/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/bui/AY2Et-OB14zSoM-I6L2YMhLQ5AiINFLwSlaP8KvW93iezMvTi3Y-OcIHLyOMYS2ZvIgct8Y9Vg/spc/9kzgDT2wgnCEZW-y2-0QeVQb6qGJMG1wLze8cM5E8E0vk6oDTAv5Y9wZvawLltKulA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOyBydDHvLVHX_L1AauNQXYk7ssGR3K701vkuu-jjUAoCIDejmtgl3wXcWqR6BeW-xBOGLwb-tBB60Q4tuey9MU2z/file/index.m3u8
 #EXTINF:-1 tvg-id="ElPais.TV" group-title="Informativos" tvg-name="El País" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200", El País
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-id="Negocios.TV" group-title="Informativos" tvg-name="Negocios TV" tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg", Negocios TV
